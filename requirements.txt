@@ -1,0 +1,14 @@
+pypdf
+pandas
+numpy
+python-dotenv
+transformers
+torch
+psycopg2-binary
+PyPDF2
+pymupdf
+pgvector
+tensorflow
+tf-keras
+sentence-transformers
+fitz
